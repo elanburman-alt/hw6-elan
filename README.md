@@ -6,7 +6,7 @@
 
 \*\*Course:\*\* Generative AI (BU.330.760), Johns Hopkins Carey Business School
 
-\*\*Video walkthrough:\*\* \[your video link]
+\*\*Video walkthrough:\*\* \[(https://youtu.be/yDkXvoTF4HA)]
 
 
 
